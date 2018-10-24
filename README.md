@@ -1,2 +1,2 @@
 # my-blog
-博客记录在这里
+之前的博客地址：[开车上纽北](http://ruanjiawei.com)
