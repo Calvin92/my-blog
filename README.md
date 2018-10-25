@@ -1,2 +1,1 @@
-# my-blog
-之前的博客地址：[开车上纽北](http://ruanjiawei.com)
+详情请前往 [我的 issues](https://github.com/Calvin92/my-blog/issues)
